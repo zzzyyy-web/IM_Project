@@ -123,11 +123,3 @@ http://10.0.2.2:8000
 source/mobile-client/app/src/main/java/com/im/project/mobile/MainActivity.java
 ```
 
-## GitHub 下载后是否能用
-
-可以。别人从 GitHub 下载本目录后，只要电脑已安装必要运行环境，就可以按上面的步骤启动：
-
-- 最快方式：安装 Docker Desktop，运行 `docker/load-and-run-backend.ps1` 启动后端。
-- Web 端：安装 Node.js 后运行前端和后台管理。
-- 桌面端：直接安装 EXE，但仍需要先启动后端。
-- 移动端：模拟器可直接使用 APK；真机需要按局域网 IP 重新配置后端地址。
