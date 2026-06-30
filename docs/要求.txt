@@ -1,0 +1,1 @@
+桌面端要求 qt5.9.3+qss+vs2015+webengine+pjsip+tcpsocket+sqlite 输出exe 移动端flutter+pjsip+tcpsocket+sqlite，输出apk即可  服务端：推荐使用jdk1.8+mysql/derby+redis，也可以使用go或者python3.10 kafka 音视频中转使用coturn开源项目。这个是一个即时通讯项目的web页面的前端，要求按照这个项目的界面，实现即时通讯项目，要求服务端使用java，需要实现后台管理、桌面端使用qt5.9.3版本、移动端使用flutter，要求使用tcp的socket进行通讯，实时视频和音频使用pjsips开源项目，要求任务交付物：源代码、exe、apk、服务端的docker镜像以及skills

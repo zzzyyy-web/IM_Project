@@ -1,0 +1,4 @@
+interface:
+  display_name: "IM Project"
+  short_description: "Work on the D-drive IM system, backend, web client, admin console, Docker delivery, and validation."
+  default_prompt: "Use this skill to modify, validate, or package the IM project located at D:\\desktop\\work."
